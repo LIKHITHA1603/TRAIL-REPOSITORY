@@ -1,0 +1,126 @@
+Azure Repos :
+
+Source code : what developers are devloped for the application code.
+Source code managemnet : we can able to track the source code activities.
+
+SCM tools / VCS tools : Source code managemnet tools / version control system tools.
+We have a 2 types of VCS are availble.
+
+1. Centralized VCS :
+   It is act as a Client-server model.
+   server always be online.
+   source code activity history we can not trace.
+   example : Subversion (svn), Team foundation server ( TFS)
+
+2. Distributed VCS :
+   In this DVCS each and every developer have their own copy of data.
+   It supports both offline and online operations.
+   source code activity history we can trace.
+   example : Github, Azure Repos,Bitbucket,gitlab
+
+What is your SCM / VCS / DVCS : Azure Repos.
+
+If you want to work on the SCM tools we need to install 4 softwares in your laptop.
+
+1. Visual Studio 2019 Community Edition
+2. Visual Studio code
+3. Git 
+4. Github account.
+
+Any developer wants to develop a application code they must use the IDE's.
+IDE : Integrated Developemnt Environemnts.
+
+Visual Studio : ASP.NET Projects developements purpose.
+Visual Studio code : With the help of this one we can able to develop any type of application code.
+Notepadd++ :
+Atom : 
+Ecclipse :Java Projects 
+
+Installation of Softwares :
+
+1. Visual Studio 2019 Community Edition.
+   https://visualstudio.microsoft.com/
+   
+
+2. Visual Studio code :
+    https://code.visualstudio.com/download
+
+3. Git 
+https://git-scm.com/download/win   
+
+4. Github account.
+https://github.com/
+
+
+Difference between the Git and github :
+
+Git vs git hub :
+Git = Bank Account
+Github = Bank
+
+Git : Git is A software
+    :  Git is a Vesrion control
+    : we need to install in local system.
+    : we needs perform CLI operations
+    : By using we can able to track the changes.
+    : open source Licenes
+
+Git Hub : Github is a service.
+        : Github is a Vesrion control system.
+        : we can able to access via Internet ( www.github.com)
+        : we can able to perform GUI operations.
+        : we can able to store the Repositories.
+        : it supports both the Licenes like free and Enterprise.
+
+Git : Version is 2.35.1
+    : https://git-scm.com/download/win
+    : we can able to find 3 ways to perform the Git operations
+      1. Git Bash : we can able to runlinux commends & windows.
+      2. Git CMD : we can able to do git operations via windo
+
+
+Task : i want to deposit my money into bank.
+
+1. How much money i want to deposit.
+2. Go to Bank
+3. Ask the Deposit form
+4. Filling the Deposit form 
+5. Handover the cashier
+6. Take the receipt.
+
+I want to move my local repos code into remote Repositories.
+we have a 3 phases in Git.
+
+1. Working Area
+2. Staging Area
+3. Remote Repositories.
+
+How do you create a empty / Local Repositories : git Init.
+Git init - iniatilized the empy Repositories & create a .git folder this will store the all the application acvities 
+           history i.e. act as a Local database.
+Git add - git add --all ( including hidden files )
+          git add < filename >
+          git add . ( Except the Hidden files)
+Git status : 
+Git commit -m "Messgag" 
+Git config :
+   
+    Set your username: git config --global user.name "Lenka Sureshkumar"
+    Set your email address: git config --global user.email "sureshkumar@gmail.com"
+
+
+Task : 
+
+Move your local Repositories to Remote Repositories ( Bitbucket)
+Bitbucket Signup
+
+
+
+
+
+
+
+
+
+
+

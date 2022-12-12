@@ -1,0 +1,62 @@
+Azure Devops Intrduction :
+
+What is devops ?
+
+ It is a culture , we can used to establsih the communication between the Dev Team + ops team to avoid the clutches 
+ between them. It is used for automate the process of application & deliver fastly with the help of devops tools.
+
+we have a multiple devops roles are availble :
+
+Azure Devops  : we are implementing the devops in azure cloud platform.
+AWS devops : we are implementing the devops in AWS cloud platform.
+GCP devops : we are implementing the devops in GCP cloud platform.
+
+We are learning the Azure Devops :
+
+In this azure devops provides the below services :
+
+1. Azure Boards
+2. Azure Repos
+3. Azure Pipelines
+4. Azure Testplans
+5. Azure Artifacts.
+
+we have a 2 ways to access the above azure devops services.
+
+1. Azure Devops Server : 
+   -We need to download the azure devops setup file and install into physical windows server.
+   -we need to take the 3 years of licenses.
+   -we are using the 2020.1.2 Version.
+   -we are able to access the all the above 5 services.
+   1. Azure Boards
+   2. Azure Repos
+   3. Azure Pipelines
+  4. Azure Testplans
+  5. Azure Artifacts.
+ - we are the resposnbile for create , manage , deploy the azure devops server setup.
+- We have a full control on this Azure Devops Server.
+
+2. Azure Devops Services.
+
+-We can able to access this via portal : dev.azure.com.
+ -we need to take the plans for access the azure devops services.
+   -we are using the 2020.1.4 Version.
+   -we are able to access the all the above 5 services.
+   1. Azure Boards
+   2. Azure Repos
+   3. Azure Pipelines
+  4. Azure Testplans
+  5. Azure Artifacts.
+ - we are not resposnbile for create , manage , deploy the azure devops services , everything is taking care by Azure.
+- We don't have a full control on this Azure Devops Services.
+
+which one we need to use and y ?
+
+Azure Devops Services is comes under SAAS.
+
+what are the details we need to create a Azure Devops service ?
+
+1. Email Id.
+2. Password
+ 
+Azure Devops Services portal URL : dev.azure.com

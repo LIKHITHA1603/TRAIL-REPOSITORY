@@ -1,0 +1,78 @@
+Azure Devops Account Signup :
+
+In Azure Devops we have a 3 roles :
+
+1. Azure Devops Administrator - 0 to 2
+2. Azure Devops Engineer : 1 to 6
+3. Azure Devops Solution Architect- 1 to 10
+
+
+
+We need 2 details those are like email id and password.
+we can able to login azure devops portal via 2 ways
+1. Dev.azure.com
+2. Visual studio portal.
+
+Here we have a 2 types of permissions are availble those are 
+1. ORG Permissions
+2. Project Permissions.
+
+Azure Devops Organisation - ADO
+Azure Devops - AD
+Azure Devops project - ADP.
+
+https://dev.azure.com/snehakilari1230451/fedex
+
+https://dev.azure.com  - Azure Devops Portal URL
+
+/snehakilari1230451/ - ADO Name
+
+fedex - Azure Devops Project.
+
+I want to check how many ADO's & ADP's are assigned ?
+with the help of Aex.dev.azure.com
+
+I want to check the azure devops portal health status ?
+ with the help of status.dev.azure.com
+
+ Azure Devops provides the 5 services :
+ 1. Azure Boards
+ 2. Azure Repos
+ 3. Azure Pipelines
+ 4. Azure Testplans
+ 5. Azure Artifacts.
+
+We have licenses in the azure devops portal. Based on license only we can able to access the above 5 service.
+
+1. Free
+2. Basic
+3. Stakeholder
+4. Basic + Testplans
+5. Visualstudion subscrpion.
+
+Basic + Stakeholder + Visual studio Subscrption
+
+If you want to give access to AZure Devops Services we have a 2 approches.
+
+1. Native users
+2. Azure Active dirctory
+
+How to integrate Azure Active dirctory into Azure Devops portal - Service connection & direct integt
+
+What is Service connection ?
+
+It is used for integrate the external services into Azure Devops Portal.
+
+
+
+
+
+
+
+
+
+
+
+
+
+

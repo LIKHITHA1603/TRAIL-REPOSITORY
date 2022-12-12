@@ -1,0 +1,11 @@
+Azure Devops :
+
+1. How to give azure devops project access to team members ?
+2. Which approach is suitbale for ADO acess
+3. How to change / trouble shoot the users related access level, permissmissons level issues.
+
+We have a 2 ways to provide access to the team members .
+1. Native Users
+2. Active dirctory users.
+
+

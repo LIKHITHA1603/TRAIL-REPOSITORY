@@ -1,0 +1,11 @@
+Azure Boards :
+
+with the help of below ways we can able to provide access to the users.
+
+1. Native users 
+2. Azure Active dirctory.
+
+
+Azure Boards : Project Managent process.
+
+
